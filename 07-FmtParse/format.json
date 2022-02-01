@@ -1,0 +1,66 @@
+{
+  "format": "xl",
+  "id": "dbc46c28-4402-4e3e-a4ed-3f81a3ed27b2",
+  "version": "1",
+  "xl": {
+    "distributionAlgo": "SIPMOD+PARITY",
+    "sets": [
+      [
+        "d6eb9ffa-e12c-40cb-922e-c430f2386cf2",
+        "e1c4a212-d6dc-4b41-bfbc-44c84a6772ce",
+        "d9277dd6-dab4-4be3-ab72-93da0f8aa393",
+        "a4a83b73-0b48-450e-ae04-63a6ad51b7c8",
+        "4fd44ce4-e064-4cca-bd84-ecc8d7753a95",
+        "c5bc396a-7751-47ae-84ea-96f39dbbe90c",
+        "428b0203-1fce-44b8-ae3b-774ea450ce19",
+        "da90b2ab-a442-459f-9c0a-a82f1b48ef95",
+        "0d820a30-91a7-4bcd-90e1-d95be8bf2d13",
+        "e2bbae48-dc3d-4ae9-ae23-37a82fac894d",
+        "03df87d2-8e70-4130-a748-4acbdf4b150f",
+        "ae3e3166-37e7-402d-a566-42be6bb1505e",
+        "e7a4e5b2-3397-46d2-a70e-7ee68e90818d",
+        "ffe44926-1177-44e7-bd2d-6eee5e22ac68",
+        "ebb63297-76f9-4484-b8f6-af729e1311a9",
+        "1d920a3c-cbbf-4d9e-b995-05f807fb2dfd"
+      ],
+      [
+        "c5016cac-687f-456b-b87a-0900e207f317",
+        "46d8ba28-377b-4317-a3ab-f19e59873be5",
+        "a8dd4fbd-12ca-47da-a75f-12a29387506a",
+        "8997c69c-ef52-4e0c-9000-25ceea12f131",
+        "36b9eb40-56f2-4f3c-806f-0454e069db98",
+        "72347e2d-3992-448e-a171-1f58c7b3ffae",
+        "1d7e69e8-8491-4c67-8755-7c5ab76a5109",
+        "32b9c6aa-2bb9-43e4-b168-0bee1aa2e693",
+        "cea9017e-fa4a-4a57-90a9-55235c849168",
+        "d6268614-ac5f-41a7-9809-acf840f8b75d",
+        "2da44d21-4e29-4550-81db-b286bec5e796",
+        "5aa2f0ac-1038-4bdf-8fce-e9c3f91cdff9",
+        "619fedab-f412-45ad-b5c7-9cd2a7b0ce18",
+        "7e8697fc-0aca-4d5a-8cf9-1d20f7f813fd",
+        "ca2a5c91-c2c5-4faa-a2a0-fb2db0c0fa5d",
+        "0ff7470f-f436-4594-b613-b8bf115c68e0"
+      ],
+      [
+        "561e7e2a-26b6-4d74-9407-96ed58293b83",
+        "71cf4293-3627-48e1-a44a-47d25abd41c2",
+        "aa5a41b7-7697-4715-a0a2-71eb5d2cfc16",
+        "74808d4f-50bb-456d-b653-3b9b7575b5a7",
+        "36b7c319-6972-44ee-9c67-b22801cecab7",
+        "3dcd0b06-4110-4465-bf40-d28cf62749c9",
+        "e46a1f67-efd5-44a8-bb2f-ee5a61eb2783",
+        "a42e1dd7-a43e-4da5-a598-17a2e6c93615",
+        "86d15eb6-8985-4965-9d34-7df49b015b90",
+        "7a6f8721-0f36-48bc-a66c-7226b37cc2d9",
+        "50e30cc3-6492-4c32-b5c3-fe9ccace7aa7",
+        "cb30e077-676d-46ef-9f05-8397c3e7cd01",
+        "4164d6e1-ba15-41b4-9a31-7347af6cd59e",
+        "4330269a-fa2a-4664-95dc-834fdc9d4e8e",
+        "bbcf23e4-83d8-4d6d-9fa9-30722fb7ff92",
+        "3e0384f7-c78c-493f-8f84-3b1d476cf696"
+      ]
+    ],
+    "this": "cea9017e-fa4a-4a57-90a9-55235c849168",
+    "version": "3"
+  }
+}
